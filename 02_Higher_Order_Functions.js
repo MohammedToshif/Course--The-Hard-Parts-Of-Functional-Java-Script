@@ -51,7 +51,9 @@
 // const result = copyArrayAndManipulate([1, 2, 3], multiplyBy2);
 
 
-//----- (0) - (Arrow & Anoymous functions)
+
+               //----- (03) - (Arrow & Anoymous functions)
+
 
 // // Arrow function in ES2015
 
